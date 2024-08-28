@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love @superswan
+I love [@superswan](github.com/superswan)
